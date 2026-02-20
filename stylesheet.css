@@ -121,3 +121,29 @@ ul {
     font-weight: 900;
     text-align: end;
 }
+
+.blue-section{
+    background-color: #3882f6;
+    color:#F9FAF8;
+    margin: 128px;
+    padding: 32px;
+    display: flex;
+    border-radius: 10px;
+}
+.blue-section-para{
+    font-weight: 900;
+    font-size: 18px;
+}
+.blue-section-quote{
+    font-weight: 300;
+    font-size: 18px;
+    width: 320px;
+}
+
+.blue-section-button{
+    background-color: #3882f6;
+    color: #F9FAF8;
+    border-radius: 5px;
+    border: 0px;
+    padding: 6px;
+}
