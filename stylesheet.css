@@ -8,7 +8,11 @@
     border: 0px;
     margin: 0px;
 }
-
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
 a {
     text-decoration: none;
     color: #E5E7EB;
@@ -122,27 +126,31 @@ ul {
     text-align: end;
 }
 
-.blue-section{
+.blue-section {
     background-color: #3882f6;
-    color:#F9FAF8;
+    color: #F9FAF8;
     margin: 128px;
     padding: 32px;
     display: flex;
     border-radius: 10px;
 }
-.blue-section-para{
+
+.blue-section-para {
     font-weight: 900;
     font-size: 18px;
 }
-.blue-section-quote{
+
+.blue-section-quote {
     font-weight: 300;
     font-size: 18px;
     width: 320px;
 }
-.footer{
+
+.footer {
     background-color: #1f2937;
-    color:#F9FAF8;
+    color: #F9FAF8;
     padding: 16px;
     text-align: center;
-    
+    font-size: 18px;
+    font-weight: 300;
 }
