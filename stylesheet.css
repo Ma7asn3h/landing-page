@@ -139,11 +139,10 @@ ul {
     font-size: 18px;
     width: 320px;
 }
-
-.blue-section-button{
-    background-color: #3882f6;
-    color: #F9FAF8;
-    border-radius: 5px;
-    border: 0px;
-    padding: 6px;
+.footer{
+    background-color: #1f2937;
+    color:#F9FAF8;
+    padding: 16px;
+    text-align: center;
+    
 }
