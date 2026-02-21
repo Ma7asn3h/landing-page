@@ -60,7 +60,7 @@ a {
     margin-top: 60px;
 }
 
-button {
+#one {
     background-color: #3882f6;
     color: #F9FAF8;
     border-radius: 5px;
@@ -133,6 +133,7 @@ ul {
     padding: 32px;
     display: flex;
     border-radius: 10px;
+    justify-content: center;
 }
 
 .blue-section-para {
@@ -143,7 +144,7 @@ ul {
 .blue-section-quote {
     font-weight: 300;
     font-size: 18px;
-    width: 320px;
+    width: 240px;
 }
 
 .footer {
@@ -153,4 +154,13 @@ ul {
     text-align: center;
     font-size: 18px;
     font-weight: 300;
+}
+#two{
+    display: flex;
+    align-self: flex-end;
+    background-color: #3882f6;
+    color: #F9FAF8;
+    border-radius: 5px;
+    margin-bottom: 60px;
+    margin-left: 60px;
 }
