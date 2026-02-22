@@ -8,11 +8,13 @@
     border: 0px;
     margin: 0px;
 }
-body{
+
+body {
     margin: 0;
     border: 0;
     padding: 0;
 }
+
 a {
     text-decoration: none;
     color: #E5E7EB;
@@ -155,7 +157,8 @@ ul {
     font-size: 18px;
     font-weight: 300;
 }
-#two{
+
+#two {
     display: flex;
     align-self: flex-end;
     background-color: #3882f6;
@@ -163,4 +166,10 @@ ul {
     border-radius: 5px;
     margin-bottom: 60px;
     margin-left: 60px;
+}
+
+.all{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
 }
